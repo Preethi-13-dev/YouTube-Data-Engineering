@@ -19,4 +19,4 @@ This project aims to securely manage, streamline, and perform analysis on the st
 ## Dataset Used
 https://www.kaggle.com/datasets/datasnaek/youtube-new
 ## Architecture Diagram
-![Data Architecture](
+![Data Architecture](architecture.jpeg)
